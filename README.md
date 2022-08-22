@@ -9,6 +9,8 @@ Prós
 - Um único pode de acesso à dados.
 - Encapsulamento da lógica de acesso à dados.
 - SPOF (Ponto único de falha).
+- Testabilidade com mock.
+- Acesso a diversas fontes de dados(api, ADO, Dapper, Entity e etc).
 
 Contras
 - Maior complexidade.
