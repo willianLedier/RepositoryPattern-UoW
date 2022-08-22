@@ -6,12 +6,12 @@
 Basicamente é um objeto que faz o isolamento das entidades do domínio de seu código que acessa dados.
 
 Prós
-Um único pode de acesso à dados.
-Encapsulamento da lógica de acesso à dados.
-SPOF (Ponto único de falha).
+- Um único pode de acesso à dados.
+- Encapsulamento da lógica de acesso à dados.
+- SPOF (Ponto único de falha).
 
 Contras
-Maior complexidade.
+- Maior complexidade.
 
 ------------
 
